@@ -1,0 +1,29 @@
+{
+  "name": "ci-env",
+  "version": "1.17.0",
+  "description": "Environment variables exposed by CI tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "ci",
+    "environment",
+    "variables",
+    "travis",
+    "circle"
+  ],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/siddharthkp/ci-env.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siddharthkp/ci-env/issues"
+  },
+  "homepage": "https://github.com/siddharthkp/ci-env#readme"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "archiver-promise",
+  "version": "1.0.0",
+  "description": "Promise wrapper for archiver",
+  "keywords": [
+    "archiver",
+    "zip",
+    "tar",
+    "promise",
+    "async"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/archiver-promise.git"
+  },
+  "author": {
+    "name": "Liang",
+    "email": "liang@maichong.it",
+    "url": "https://github.com/liangxingchen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/archiver-promise/issues"
+  },
+  "homepage": "https://github.com/maichong/archiver-promise#readme",
+  "dependencies": {
+    "archiver": "^1.2.0"
+  }
+}
